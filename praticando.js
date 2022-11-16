@@ -26,6 +26,7 @@ const soma = numerosDois.reduce((acc, atual) => acc + atual, 0);
 
 console.log(soma); //170
 
+/*------------------------------------------------------------------*/
 let numeroOriginal = 10;
 
 function alteraNumero(numero) {
